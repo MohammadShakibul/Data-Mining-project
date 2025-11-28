@@ -139,7 +139,7 @@ You can install them using pip:
 
 pip install pandas numpy matplotlib seaborn scikit-learn mlxtend
 
-## **🏃 How to Run the Project**
+## ** How to Run the Project**
 
 1. **Clone the Repository:**  
    git clone \[https://github.com/MohammadShakibul/Data-Mining-project.git\](https://github.com/MohammadShakibul/Data-Mining-project.git)  
@@ -149,6 +149,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn mlxtend
 3. **Open the Notebook:** Run the Intelligent Sales Revenue Forecast Jupyter Notebook.  
 4. **Execute Cells:** Run all cells in sequence to reproduce the data cleaning, model training, loss prediction, and association rule mining analysis.
 
-## **📄 License**
+## ** License**
 
 This project is licensed under the MIT License \- see the LICENSE.md file for details (if applicable).
