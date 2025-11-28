@@ -115,7 +115,7 @@ The analysis identified key co-purchase patterns among high-profit products, use
 
 **Insight:** Leverage these high-lift association rules for targeted product bundling or strategic store layouts to encourage cross-selling and maximize overall profit.
 
-## **🛠️ Technologies Used**
+## ** Technologies Used**
 
 * Python  
 * Pandas  
